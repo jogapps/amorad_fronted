@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba17183d.css",
+    "main.js": "/static/js/main.2066cd10.js",
+    "static/js/769.dd9f3616.chunk.js": "/static/js/769.dd9f3616.chunk.js",
+    "static/js/131.c7646ab2.chunk.js": "/static/js/131.c7646ab2.chunk.js",
+    "static/js/268.8b5a26fa.chunk.js": "/static/js/268.8b5a26fa.chunk.js",
+    "static/js/106.66785508.chunk.js": "/static/js/106.66785508.chunk.js",
+    "static/js/538.9282921f.chunk.js": "/static/js/538.9282921f.chunk.js",
+    "static/js/437.5277028d.chunk.js": "/static/js/437.5277028d.chunk.js",
+    "static/js/583.2a47e538.chunk.js": "/static/js/583.2a47e538.chunk.js",
+    "static/js/981.26e546bb.chunk.js": "/static/js/981.26e546bb.chunk.js",
+    "static/js/894.983c5291.chunk.js": "/static/js/894.983c5291.chunk.js",
+    "static/js/176.daf8b98e.chunk.js": "/static/js/176.daf8b98e.chunk.js",
+    "static/js/27.756a012e.chunk.js": "/static/js/27.756a012e.chunk.js",
+    "static/js/905.0db73238.chunk.js": "/static/js/905.0db73238.chunk.js",
+    "static/js/313.073dddf1.chunk.js": "/static/js/313.073dddf1.chunk.js",
+    "static/js/354.d25f5b2d.chunk.js": "/static/js/354.d25f5b2d.chunk.js",
+    "static/js/368.a175f887.chunk.js": "/static/js/368.a175f887.chunk.js",
+    "static/js/33.984dd63c.chunk.js": "/static/js/33.984dd63c.chunk.js",
+    "static/js/795.69ea874e.chunk.js": "/static/js/795.69ea874e.chunk.js",
+    "static/js/517.233a9297.chunk.js": "/static/js/517.233a9297.chunk.js",
+    "static/css/426.a17307a4.chunk.css": "/static/css/426.a17307a4.chunk.css",
+    "static/js/426.22ffb8c8.chunk.js": "/static/js/426.22ffb8c8.chunk.js",
+    "static/js/31.626bc542.chunk.js": "/static/js/31.626bc542.chunk.js",
+    "static/js/917.72ac95b3.chunk.js": "/static/js/917.72ac95b3.chunk.js",
+    "static/js/508.e535d088.chunk.js": "/static/js/508.e535d088.chunk.js",
+    "static/media/login-3.png": "/static/media/login-3.2179b799a4b0400d2cbc.png",
+    "static/media/login-2.png": "/static/media/login-2.f58b61f6efe3fa0dd0e6.png",
+    "static/media/login-1.png": "/static/media/login-1.e4d014cdf8f73eadbcc9.png",
+    "static/media/logo-white.png": "/static/media/logo-white.1adddbeab44e197973e6.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba17183d.css",
+    "static/js/main.2066cd10.js"
+  ]
+}
